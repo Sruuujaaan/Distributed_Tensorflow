@@ -1,0 +1,12 @@
+BATCH_SIZE = 10
+CHECKPOINT_PATH = train_dir
+EPOCHS = 5
+EVALUATE_EVERY = 10
+HIDDEN_UNITS = 128,256
+IN_FEATURES = 4
+LABELS_PATH = ../dataset/labels.data
+LEARNING_RATE = 0.001
+MODE = train
+NUM_CLASSES = 3
+OUTPUT_PATH = train_dir_iris
+TRAINING_PATH = ../dataset/iris.data

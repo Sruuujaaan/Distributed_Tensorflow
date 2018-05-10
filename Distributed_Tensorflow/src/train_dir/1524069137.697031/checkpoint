@@ -1,0 +1,6 @@
+model_checkpoint_path: "lstm_no_spark-49"
+all_model_checkpoint_paths: "lstm_no_spark-10"
+all_model_checkpoint_paths: "lstm_no_spark-20"
+all_model_checkpoint_paths: "lstm_no_spark-30"
+all_model_checkpoint_paths: "lstm_no_spark-40"
+all_model_checkpoint_paths: "lstm_no_spark-49"
